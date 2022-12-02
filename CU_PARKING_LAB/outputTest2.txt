@@ -1,0 +1,35 @@
+Welcome to CU Parking services. Please start by selecting your vehicle (Motorcycle, Truck, Car): 
+Please enter the make of your car: 
+Enter the model of your car: 
+Enter the year your vehicle was made: 
+Please enter the color of your vehicle: 
+Please enter the body type of your vehicle (2 door/4 door): 
+Thank you for your vehicle information. Please select your user status (Resident, Employee, Visitor): 
+Please enter your full name: 
+Please enter your full address: 
+Please enter your email: 
+Please enter your respective department: 
+Are you tenured? (Yes/No): 
+Invoice: 
+   Make: 
+      Toyota
+   Model: 
+      Tacoma
+   Year: 
+      2022
+   Color: 
+      Blue
+   Body: 
+      2 door
+   Name: 
+      Dan Wooster
+   Address: 
+      123 McAdams Circle
+   Email: 
+      helloworld@clemson.edu
+   Department: 
+      Computer Science
+   Tenure: 
+      Yes
+------------
+Total: $250.00

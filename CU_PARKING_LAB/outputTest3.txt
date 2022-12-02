@@ -1,0 +1,35 @@
+Welcome to CU Parking services. Please start by selecting your vehicle (Motorcycle, Truck, Car): 
+Please enter the make of your car: 
+Enter the model of your car: 
+Enter the year your vehicle was made: 
+Please enter the amount of seats your car holds: 
+Please enter your license plate: 
+Thank you for your vehicle information. Please select your user status (Resident, Employee, Visitor): 
+Please enter your full name: 
+Please enter your full address: 
+Please enter your email: 
+Please explain your reason for your visit (max 200 characters): 
+Enter which state you are visiting from (AL/SC/PA): 
+Invoice: 
+   Make: 
+      Mazda
+   Model: 
+      6
+   Year: 
+      2019
+   Seats: 
+      2
+   Plate: 
+      FDX-709
+   Name: 
+      Randy Poropatich
+   Address: 
+      9423 Man O War Road
+   Email: 
+      randyporopatich@yahoo.com
+   Reason: 
+      Tour
+   State: 
+      AL
+------------
+Total: $100.00

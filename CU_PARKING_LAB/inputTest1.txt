@@ -1,0 +1,12 @@
+Car
+Honda
+CRV
+2015
+4
+QMB-123
+Resident
+Abigail Poropatich
+894 Promenade Walk
+aporopa@clemson.edu
+C19102381
+Senior

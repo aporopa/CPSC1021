@@ -1,0 +1,12 @@
+Truck
+Toyota
+Tacoma
+2022
+Blue
+2 door
+Employee
+Dan Wooster
+123 McAdams Circle
+helloworld@clemson.edu
+Computer Science
+Yes
